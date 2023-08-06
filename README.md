@@ -32,7 +32,7 @@ This project involves controlling various devices (LEDs, DC motor, and servo) us
      - IR sensor is used to detect objects and automatically open/close the door.
      - When the IR sensor detects an object (IR is HIGH), the servo motor turns to 90 degrees to open the door.
      - When no object is detected (IR is LOW), the servo motor turns to 0 degrees to close the door.
-# Ciruit Diagram:
+# Simulation:
 ![Screenshot 2023-08-06 040458](https://github.com/Shimaa-esmat/Smart_Home/assets/120101693/ffd56e38-86d4-4cf0-944b-af0718936665)
 # Conclusion
 * This smart home system allows remote control of lights, appliances and doors through either Bluetooth commands or motion detection using an IR sensor
