@@ -21,8 +21,8 @@ This project involves controlling various devices (LEDs, DC motor, and servo) us
 1. Bluetooth Control:
    * The Arduino is connected to a Bluetooth module to receive commands wirelessly.
    * When a character is received from Bluetooth, the corresponding action is performed:
-     * 'A'/ 'a' - Controls LED3
-     * 'B'/ 'b' - Controls LED3
+     * 'A'/ 'a' - Controls LED1
+     * 'B'/ 'b' - Controls LED2
      * 'C'/ 'c' - Controls LED3
      * 'D'/ 'd' - Controls LED4
      * 'M'/ 'm' - Controls the DC motor
